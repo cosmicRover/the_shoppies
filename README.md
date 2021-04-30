@@ -1,4 +1,4 @@
-# The shoppies
+# The shoppies ([site link](https://joypaultheshoppies1234.web.app/))
 ![Alt Text](https://media.giphy.com/media/7zySlpDbjlgfJWubf6/giphy.gif)
 
 Fetching data from OMDB and updating DS with hooks
