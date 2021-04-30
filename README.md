@@ -4,7 +4,7 @@
 Fetching data from OMDB and updating DS with hooks
 ```
   function onValueChange(value) {
-    fetch(`http://www.omdbapi.com/?s=${value}&apikey=${config.key.omdb}`).then(
+    fetch(`https://www.omdbapi.com/?s=${value}&apikey=${config.key.omdb}`).then(
       function (response) {
         if (response.status === 200) {
           response.json().then(function (data) {
